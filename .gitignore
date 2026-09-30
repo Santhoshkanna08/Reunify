@@ -1,0 +1,38 @@
+# Environment / Secrets
+.env
+.env.*
+.env.local
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+.pytest_cache/
+venv/
+.venv/
+env/
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

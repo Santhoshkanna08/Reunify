@@ -1,0 +1,6 @@
+{
+  "name": "REUNIFY - Missing Persons & Family Reunification",
+  "description": "Reconnect people. Reconcile evidence. Restore certainty. AI-assisted missing person evidence reconciliation and verification platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
